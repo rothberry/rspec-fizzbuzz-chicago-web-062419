@@ -8,5 +8,5 @@ def fizzbuzz(int)
   elsif int % 15 == 0
     puts "FizzBuzz"
   else
-
+binding.pry
 end
